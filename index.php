@@ -12,4 +12,14 @@ echo "\nHave a great day!";
 echo "\nThis is the end of the index.php file.";
 echo "\nThank you for using this script.";
 
+echo "testing git add commit and push ";
+
+$f =40;
+$d =9;
+
+$add = $f + $d;
+
+echo $add
+
+
 ?>
