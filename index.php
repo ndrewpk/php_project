@@ -1,6 +1,11 @@
 <?php
 
-echo "tes "
+echo "tes ";
+$x =5;
+$_isAdmin = true;
+
+
+
 
 
 ?>
