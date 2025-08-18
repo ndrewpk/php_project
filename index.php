@@ -1,5 +1,5 @@
 <?php
 echo "Hello, PHP is working!";
-ech
+echo 'who am i'
 ?>
 
