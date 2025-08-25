@@ -36,6 +36,58 @@ switch($skills){
     case 'Upercut':
         $lifespan -= 5;
 
+//include 
+
+include("a.php") ;
+
+// include require reuire once 
+
+
+}
+
+//function 
+
+function greetinG(){
+    return " good morning pinaple" ;
+
+}
+
+echo greetinG();
+
+function addtonum($a,$b){
+    return $a + $b ;
+
+}
+
+addtonum(4,6);
+
+function  Admin(){
+    echo "limited to user only ";
+
+
+}
+
+function User(){
+
+}
+function Strudent(){
+
+}
+function Guese(){
+
+}
+
+$input = 0;
+
+switch($input){
+    case 1:
+        User();
+        break;
+}
+
+$x = 4;
+$test = function (){
+
 }
 
 
